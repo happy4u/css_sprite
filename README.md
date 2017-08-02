@@ -12,4 +12,4 @@ https://blog.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb
 위 블로그 sample 코드 참고해 만듬
 
 결과물 보기 
-- https://blog.embed.ly/building-animated-covers-for-video-with-sprites-d260c445eb10
+- https://happy4u.github.io/test/css_sprite.html
